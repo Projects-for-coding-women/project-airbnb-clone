@@ -12,6 +12,6 @@ Steps:
 1. You will be able to find the Airbnb logo online, but you can also make a screenshot and use that image.
 1. You can use any photographs you like, change the cities, etc. etc. In the **resources_info** repository you will find links to websites where you can download pictures, images, icons etc. for free.
 
-You can run your code with Live Server. If you do not have this extension in your Visual Studio Code yet, you can search for it by clicking on the small icon with cubes: <img src="/icon_VSC_extensions.png" width="30" />  
-and search for Live Server. This is what it looks like:  
+You can run your code with Live Server. If you do not have this extension in your Visual Studio Code yet, you can search for it by clicking on the small icon with cubes:  
+<img src="/icon_VSC_extensions.png" width="30" />  and search for Live Server. This is what it looks like:  
 <img src="/liveServer_image.png" width="300" />.
