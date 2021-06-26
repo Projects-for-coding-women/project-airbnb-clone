@@ -2,6 +2,9 @@
 
 ### The goal of this project is to practice working with HTML and CSS, with the option to also use Bootstrap.
 
+This is an example of what you can build:  
+<img src="/airbnb_homepage.png" width="500" />  
+
 Steps:  
 
 1. Create a new folder on your local computer with the name: project-airbnb-clone
