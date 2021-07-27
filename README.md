@@ -1,7 +1,7 @@
 ## Project Airbnb Clone
 
 ### The goal of this project is to practice working with HTML and CSS, with the option to also use Bootstrap.
-### We recommend that you first do the Flexbox project, to get more knowledge about how to use Flexbox.
+***We recommend that you first do the Flexbox project, to get more knowledge about how to use Flexbox.***
 
 This is an example of an Airbnb webpage you can build. You can choose your own, make a screenshot and build your clone ([see the Airbnb website](https://www.airbnb.com/)).  
 
