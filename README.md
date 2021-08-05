@@ -5,7 +5,7 @@
 
 This is an example of an Airbnb webpage you can build. You can choose your own, make a screenshot and build your clone ([see the Airbnb website](https://www.airbnb.com/)).  
 
-<img src="/airbnb_homepage.png" width="700" />  
+<img src="/airbnb_home.png" width="700" />  
 
 Steps:  
 
