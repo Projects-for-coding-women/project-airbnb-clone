@@ -10,6 +10,7 @@ This is an example of an Airbnb webpage you can build. You can choose your own, 
 Steps:  
 
 1. Create a new folder on your local computer with the name: project-airbnb-clone
+1. Track your code with Git by using git init in the terminal
 1. Create an index.html file with the general template code
 1. Create a style.css file and add this to your HTML file as `<link>` (check how to add CSS to an HTML file)
 1. Make sure you have *Airbnb Clone* as the title in your HTML (this will show in the tab when your app runs in the browser)
