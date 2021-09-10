@@ -21,14 +21,6 @@ Steps:
 1. You can use any photographs you like, or take screenshots from images you find online. You can change the cities that are on the Airbnb page, etc. etc. In the **resources_info** repository you will find links to websites where you can download pictures, images, icons etc. for free (for example, [Flaticon](https://www.flaticon.com/) for icons)
 1. Feel free to use Bootstrap if you also want to practise that 😊
 
-You can run your code with Live Server. If you do not have this extension in your Visual Studio Code yet, you can search for it by clicking on the small icon with cubes in the column that is most on the left in your VSC window:  
-<img src="/icon_VSC_extensions.png" width="30" />  
-Here you can search for Live Server. This is what it looks like:  
-<img src="/liveServer_image.png" width="400" />  
-
-After installing Live Server, you can start it **when you are in your HTML file** by using a right click, or using the button **Go Live** in the blue bar all the way at the bottom of your VSC window:  
-<img src="/button_liveServer.png" width="400" />
-
 ---
 
 ## Please note:
